@@ -6,6 +6,7 @@ Then open terminal and navigate to "mohak-music-project" folder
 Then type in terminal
  1) cd views
  2) npm install
+
  After all dependencies of views are installed then 
  Type in terminal 
  1) cd apis
