@@ -8,8 +8,8 @@ Then type in terminal
 #        2) npm install
  After all dependencies of views are installed then 
  Type in terminal 
-          1) cd apis
-          2) npm install
+ 1) cd apis
+ 2) npm install
 
  Then after installing all dependencies, start the servers as following
   1) Navigate to "apis" folder of "mohak-music-project" in terminal
