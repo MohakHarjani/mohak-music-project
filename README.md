@@ -1,8 +1,10 @@
 # mohak-music-project
 Download the zip file from the "CODE" button
 Extract the file. You will get a folder named = "mohak-music-project-main" which contains "mohak-music-project" folder inside it
+
 Open code editor and open the "mohak-music-project" folder
 Then open terminal and navigate to "mohak-music-project" folder
+
 Then type in terminal
  1) cd views
  2) npm install
