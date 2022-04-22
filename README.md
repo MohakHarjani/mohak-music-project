@@ -1,23 +1,32 @@
-# mohak-music-project
-Download the zip file from the "CODE" button
-Extract the file. You will get a folder named = "mohak-music-project-main" which contains "mohak-music-project" folder inside it
 
-Open code editor and open the "mohak-music-project" folder
-Then open terminal and navigate to "mohak-music-project" folder
+# Sing It Along
 
-Then type in terminal
- 1) cd views
- 2) npm install
+A web application on which mp3 songs can be stored and played by the user. Personalized playlist can be also be maintained on the app. Implemented frontend using REACT framework, backend  using NodeJs environment.
 
- After all dependencies of views are installed then 
- Type in terminal 
- 1) cd apis
- 2) npm install
 
- Then after installing all dependencies, start the servers as following
-  1) Navigate to "apis" folder of "mohak-music-project" in terminal
-  2) Then type "npm start", this will start the backend server
+## Features
 
- After the backend server starts 
- 1) Navigate to "views" folder of "mohak-music-project" in terminal
- 2) Then type "npm start" , this will start the react server and will automatically open app in your browser
+- Authentication
+- Authorization
+- Songs
+- Artists
+- Personalized playlist
+
+
+## Screenshots
+
+### Login 
+![login](https://user-images.githubusercontent.com/65814030/164626232-fe5ed4e6-73e3-4f06-865a-fd9c4d02a42b.gif)
+
+### Songs
+![songs](https://user-images.githubusercontent.com/65814030/164626322-31c306bf-dbac-4d55-a190-4df09da1fe5f.PNG)
+
+### Search
+![search](https://user-images.githubusercontent.com/65814030/164626009-bc92c504-5839-45d3-9b10-374af33caec3.gif)
+
+### Artists
+![artist](https://user-images.githubusercontent.com/65814030/164626372-6977ee8a-36f2-4c78-831b-c8996321fe8f.PNG)
+
+### Personalized Playlist
+![playlist](https://user-images.githubusercontent.com/65814030/164626404-d458eb22-5b95-46db-965b-88366eaf3810.PNG)
+
